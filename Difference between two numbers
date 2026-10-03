@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+    int a,b,c;
+    printf("Enter the 1st no:",a);
+    scanf("%d",&a);
+    printf("Enter the 2nd no:",b);
+    scanf("%d",&b);
+    printf("The difference between two numbers is %d",c=a-b);
+
+
+}
